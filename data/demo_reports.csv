@@ -1,0 +1,251 @@
+report_id,description,location,timestamp,source_type,people_affected,quality_status,quality_notes,incident_type,scenario
+REP-0001,Heavy rainfall has caused severe flooding near Red Hills. Water has entered houses and the main road is blocked. Around 60 people are affected.,"Red Hills, Chennai",2026-10-07T16:50:45.532906,Citizen,60,GOOD,CASE1_high_confidence_flood,Flood,CASE1_high_confidence_flood
+REP-0002,Heavy rainfall has caused severe flooding near Red Hills. Water has entered houses and the main road is blocked. Around 60 people are affected.,"Red Hills, Chennai",2026-10-01T11:20:45.532976,Social Media,60,GOOD,CASE1_high_confidence_flood,Flood,CASE1_high_confidence_flood
+REP-0003,Heavy rainfall has caused severe flooding near Red Hills. Water has entered houses and the main road is blocked. Around 60 people are affected.,"Red Hills, Chennai",2026-09-16T16:10:45.533014,Citizen,60,GOOD,CASE1_high_confidence_flood,Flood,CASE1_high_confidence_flood
+REP-0004,Heavy rainfall has caused severe flooding near Red Hills. Water has entered houses and the main road is blocked. Around 60 people are affected.,"Red Hills, Chennai",2026-10-05T21:40:45.533044,News Media,60,GOOD,CASE1_high_confidence_flood,Flood,CASE1_high_confidence_flood
+REP-0005,Heavy rainfall has caused severe flooding near Red Hills. Water has entered houses and the main road is blocked. Around 60 people are affected.,"Red Hills, Chennai",2026-10-08T13:54:45.533074,Citizen,60,GOOD,CASE1_high_confidence_flood,Flood,CASE1_high_confidence_flood
+REP-0006,Flooding at Red Hills area. Several homes submerged. Road impassable.,"Red Hills, Chennai",2026-09-30T23:29:45.533099,Social Media,60,GOOD,CASE1_high_confidence_flood,Flood,CASE1_high_confidence_flood
+REP-0007,Something happened near the water area. People were there.,Unknown coastal area,2026-10-07T22:55:45.533121,Citizen,279,NEEDS_IMPROVEMENT,CASE2_low_confidence,Flood,CASE2_low_confidence
+REP-0008,Bad weather somewhere in the city.,,2026-09-25T08:39:45.533147,Citizen,142,REJECTED,CASE2_low_confidence,Heavy Rainfall,CASE2_low_confidence
+REP-0009,Flood water entered houses near Red Hills.,"Red Hills, Chennai",2026-09-13T15:19:45.533172,Citizen,60,GOOD,CASE3_duplicate,Flood,CASE3_duplicate
+REP-0010,Several homes in Red Hills are under water.,"Red Hills, Chennai",2026-09-13T10:23:45.533195,Social Media,55,GOOD,CASE3_duplicate,Flood,CASE3_duplicate
+REP-0011,Flooding reported near Red Hills residential area.,"Red Hills, Chennai",2026-09-25T05:50:45.533216,NGO,65,GOOD,CASE3_duplicate,Flood,CASE3_duplicate
+REP-0012,Cyclone wind speed at Vizag Port is 120 km/h. Minimal damage so far.,Vizag Port Area,2026-10-04T09:19:45.533237,Government Alert,200,GOOD,CASE4_conflicting,Cyclone,CASE4_conflicting
+REP-0013,Cyclone at Vizag is catastrophic. 500 people displaced. Speed over 200 km/h.,Vizag Port Area,2026-09-28T13:02:45.533258,Social Media,500,GOOD,CASE4_conflicting,Cyclone,CASE4_conflicting
+REP-0014,Flood in Chennai.,,2026-09-26T12:45:45.533286,Citizen,176,NEEDS_IMPROVEMENT,CASE5_incomplete,Flood,CASE5_incomplete
+REP-0015,Landslide on highway.,Unknown,2026-09-19T07:16:45.533309,Social Media,22,NEEDS_IMPROVEMENT,CASE5_incomplete,Landslide,CASE5_incomplete
+REP-0016,Severe Cyclone Mandous approaching Kakinada coast. Winds exceeding 180 km/h. Storm surge of 3-5 metres expected. 2000 people evacuated. Hospital and schools shut.,Kakinada,2026-09-15T01:33:45.533330,Government Alert,2000,GOOD,CASE6_high_severity_cyclone,Cyclone,CASE6_high_severity_cyclone
+REP-0017,Bridge on NH-16 near Rajahmundry partially damaged due to floodwaters. Traffic diverted. Around 150 vehicles stranded.,Rajahmundry,2026-10-05T04:02:45.533350,NGO,150,GOOD,CASE7_medium_infra,Infrastructure Damage,CASE7_medium_infra
+REP-0018,Minor waterlogging near Tambaram market area. Drains overflowing. About 20 shops affected.,"Tambaram, Chennai",2026-09-21T06:14:45.533371,Citizen,20,GOOD,CASE8_low_severity,Urban Flooding,CASE8_low_severity
+REP-0019,40 homes waterlogged in Tiruchirappalli due to blocked drains.,Tiruchirappalli,2026-10-01T07:02:45.533439,News Media,98,GOOD,general,Urban Flooding,general
+REP-0020,Severe cyclonic storm hitting Kakinada. 330 people moved to shelters.,,2026-09-27T09:25:45.533496,Government Alert,142,NEEDS_IMPROVEMENT,missing_location,Cyclone,missing_location
+REP-0021,"Cyclone approaching Rajahmundry. Winds at high speed, trees uprooted.",,2026-09-26T07:08:45.533543,News Media,325,NEEDS_IMPROVEMENT,missing_location,Cyclone,missing_location
+REP-0022,Heavy rainfall ,Coimbatore,2026-09-26T08:03:45.533586,NGO,431,NEEDS_IMPROVEMENT,short_description,Heavy Rainfall,short_description
+REP-0023,Emergency evacu,Vizag Port Area,2026-10-04T07:59:45.533632,NGO,108,NEEDS_IMPROVEMENT,short_description,Evacuation,short_description
+REP-0024,Electricity supply disrupted near Kakinada due to storm.,Kakinada,2026-09-27T08:59:45.533683,News Media,134,GOOD,general,Power Disruption,general
+REP-0025,Bridge damaged at Ooty. Emergency vehicles cannot pass.,Ooty,2026-09-18T10:17:45.533722,Citizen,386,GOOD,general,Infrastructure Damage,general
+REP-0026,Emergency evacuation ordered for Nellore.,Nellore,2026-09-22T07:32:45.533761,Citizen,197,REJECTED,general,Evacuation,general
+REP-0027,"Severe cyclonic storm hitting Red Hills, Chennai. 398 people moved to shelters.","Red Hills, Chennai",2026-10-05T06:40:45.533803,News Media,384,GOOD,general,Cyclone,general
+REP-0028,Road collapse r,"Adyar, Chennai",2026-09-14T10:35:45.533843,Citizen,488,NEEDS_IMPROVEMENT,short_description,Infrastructure Damage,short_description
+REP-0029,"Storm surge hitting coastal area near Koyambedu, Chennai. 83 fishermen alerted.","Koyambedu, Chennai",2026-10-02T22:18:45.533882,News Media,311,GOOD,general,Storm Surge,general
+REP-0030,Flash flood warning near Ooty. Residents evacuating.,Ooty,2026-09-27T06:52:45.533928,News Media,165,GOOD,general,Flood,general
+REP-0031,Heavy rainfall ,"Tambaram, Chennai",2026-09-13T22:18:45.533967,News Media,484,NEEDS_IMPROVEMENT,short_description,Heavy Rainfall,short_description
+REP-0032,"Mudslide at Anna Nagar, Chennai following heavy rainfall. Roads cut off.","Anna Nagar, Chennai",2026-09-10T20:40:45.534005,Government Alert,484,GOOD,general,Landslide,general
+REP-0033,Electricity supply disrupted near Vizag Port Area due to storm.,Vizag Port Area,2026-09-18T04:39:45.534042,Social Media,365,REJECTED,general,Power Disruption,general
+REP-0034,Bridge damaged at Ooty. Emergency vehicles cannot pass.,Ooty,2026-09-19T22:53:45.534080,Citizen,126,GOOD,general,Infrastructure Damage,general
+REP-0035,Red alert issued for Madurai due to heavy rainfall.,Madurai,2026-10-06T14:12:45.534162,Citizen,36,GOOD,general,Heavy Rainfall,general
+REP-0036,Severe cyclonic storm hitting Warangal. 347 people moved to shelters.,Warangal,2026-09-21T11:21:45.534212,News Media,121,GOOD,general,Cyclone,general
+REP-0037,Emergency evacuation ordered for Madurai.,Madurai,2026-10-05T12:25:45.534249,Government Alert,124,GOOD,general,Evacuation,general
+REP-0038,Streets flooded,Nellore,2026-09-18T13:04:45.534285,Government Alert,210,NEEDS_IMPROVEMENT,short_description,Urban Flooding,short_description
+REP-0039,Waterlogging reported in Guntur. Drainage system overwhelmed.,Guntur,2026-10-04T02:56:45.534322,Citizen,127,GOOD,general,Urban Flooding,general
+REP-0040,Bridge damaged ,Rajahmundry,2026-10-05T14:26:45.534364,Social Media,447,NEEDS_IMPROVEMENT,short_description,Infrastructure Damage,short_description
+REP-0041,"Severe flooding reported at Coimbatore. Roads submerged, vehicles stuck.",Coimbatore,2026-09-23T09:12:45.534400,Citizen,474,GOOD,general,Flood,general
+REP-0042,Floodwaters have entered residential areas near Guntur. Approximately 204 people are stranded.,Guntur,2026-09-13T01:49:45.534437,Social Media,194,GOOD,general,Flood,general
+REP-0043,Power outage in Nellore. 156 areas affected.,Nellore,2026-10-06T21:20:45.534475,Government Alert,79,GOOD,general,Power Disruption,general
+REP-0044,Floodwaters have entered residential areas near Coimbatore. Approximately 304 people are stranded.,Coimbatore,2026-09-08T23:57:45.534513,NGO,29,GOOD,general,Flood,general
+REP-0045,"Power outage in Tambaram, Chennai. 40 areas affected.","Tambaram, Chennai",2026-09-17T08:42:45.534549,Citizen,435,GOOD,general,Power Disruption,general
+REP-0046,"Evacuation underway at Koyambedu, Chennai. 322 residents moved to relief camps.","Koyambedu, Chennai",2026-09-16T21:31:45.534587,Social Media,296,GOOD,general,Evacuation,general
+REP-0047,371 homes waterlogged in Ooty due to blocked drains.,Ooty,2026-09-30T03:59:45.534623,NGO,104,GOOD,general,Urban Flooding,general
+REP-0048,Bridge damaged at Vijayawada. Emergency vehicles cannot pass.,Vijayawada,2026-09-20T13:03:45.534913,NGO,475,GOOD,general,Infrastructure Damage,general
+REP-0049,Heavy rainfall continuing at Coimbatore for the past 12 hours.,Coimbatore,2026-10-06T08:44:45.535081,News Media,135,GOOD,general,Heavy Rainfall,general
+REP-0050,Mudslide at Vijayawada following heavy rainfall. Roads cut off.,Vijayawada,2026-09-12T19:34:45.535132,Government Alert,426,GOOD,general,Landslide,general
+REP-0051,"Power outage in Red Hills, Chennai. 485 areas affected.",,2026-09-10T12:20:45.535177,NGO,477,NEEDS_IMPROVEMENT,missing_location,Power Disruption,missing_location
+REP-0052,Mudslide at Coimbatore following heavy rainfall. Roads cut off.,,2026-09-18T07:35:45.535217,NGO,144,NEEDS_IMPROVEMENT,missing_location,Landslide,missing_location
+REP-0053,Coastal flooding due to storm surge near Kodaikanal.,Kodaikanal,2026-10-08T05:18:45.535255,Citizen,47,GOOD,general,Storm Surge,general
+REP-0054,Coastal floodin,"Anna Nagar, Chennai",2026-10-05T13:11:45.535296,Social Media,379,NEEDS_IMPROVEMENT,short_description,Storm Surge,short_description
+REP-0055,"Electricity supply disrupted near Anna Nagar, Chennai due to storm.","Anna Nagar, Chennai",2026-09-25T12:05:45.535334,Citizen,427,GOOD,general,Power Disruption,general
+REP-0056,Streets flooded in Vijayawada. Commuters stranded.,Vijayawada,2026-09-17T12:45:45.535402,Citizen,460,GOOD,general,Urban Flooding,general
+REP-0057,NH-478 blocked near Coimbatore due to debris.,Coimbatore,2026-09-11T10:16:45.535606,News Media,383,REJECTED,general,Road Blockage,general
+REP-0058,"Major road at Adyar, Chennai closed. Traffic diverted.","Adyar, Chennai",2026-09-12T18:12:45.535711,Citizen,91,REJECTED,general,Road Blockage,general
+REP-0059,Storm surge hit,Kakinada,2026-10-01T09:15:45.535800,Social Media,403,NEEDS_IMPROVEMENT,short_description,Storm Surge,short_description
+REP-0060,Waterlogging reported in Tirupati. Drainage system overwhelmed.,Tirupati,2026-10-02T03:46:45.535844,NGO,420,GOOD,general,Urban Flooding,general
+REP-0061,Cyclone damage reported at Rajahmundry. Rooftops blown off.,Rajahmundry,2026-09-11T22:46:45.535885,NGO,179,GOOD,general,Cyclone,general
+REP-0062,"Cyclone damage reported at Red Hills, Chennai. Rooftops blown off.","Red Hills, Chennai",2026-10-07T12:29:45.535925,NGO,91,REJECTED,general,Cyclone,general
+REP-0063,266 homes waterlogged in Nellore due to blocked drains.,Nellore,2026-09-09T21:55:45.536332,NGO,223,GOOD,general,Urban Flooding,general
+REP-0064,"Severe flooding reported at Rajahmundry. Roads submerged, vehicles stuck.",Rajahmundry,2026-09-07T18:09:45.536452,Government Alert,0,GOOD,general,Flood,general
+REP-0065,Evacuation underway at Warangal. 373 residents moved to relief camps.,Warangal,2026-09-22T06:25:45.536529,NGO,339,REJECTED,general,Evacuation,general
+REP-0066,Streets flooded in Nellore. Commuters stranded.,Nellore,2026-09-24T18:43:45.536572,Government Alert,356,GOOD,general,Urban Flooding,general
+REP-0067,"Emergency evacuation ordered for Adyar, Chennai.",,2026-10-02T02:17:45.536615,News Media,154,NEEDS_IMPROVEMENT,missing_location,Evacuation,missing_location
+REP-0068,Emergency evacuation ordered for Madurai.,Madurai,2026-09-22T00:17:45.536656,NGO,238,GOOD,general,Evacuation,general
+REP-0069,"Cyclone damage reported at Adyar, Chennai. Rooftops blown off.","Adyar, Chennai",2026-10-06T08:24:45.536696,NGO,263,GOOD,general,Cyclone,general
+REP-0070,Heavy rainfall continuing at Vijayawada for the past 12 hours.,Vijayawada,2026-09-22T20:13:45.536736,Social Media,75,GOOD,general,Heavy Rainfall,general
+REP-0071,"Road collapse reported near Velachery, Chennai.","Velachery, Chennai",2026-09-16T03:36:45.536775,Government Alert,453,GOOD,general,Infrastructure Damage,general
+REP-0072,Red alert issue,Guntur,2026-09-10T12:18:45.536814,Social Media,335,NEEDS_IMPROVEMENT,short_description,Heavy Rainfall,short_description
+REP-0073,Red alert issued for Nellore due to heavy rainfall.,Nellore,2026-09-21T08:09:45.536851,Social Media,411,GOOD,general,Heavy Rainfall,general
+REP-0074,"Power lines down at Koyambedu, Chennai. 346 households without electricity.","Koyambedu, Chennai",2026-09-20T20:47:45.536888,Social Media,410,GOOD,general,Infrastructure Damage,general
+REP-0075,Emergency evacuation ordered for Tirupati.,Tirupati,2026-09-11T00:39:45.536938,News Media,218,GOOD,general,Evacuation,general
+REP-0076,Red alert issued for Rajahmundry due to heavy rainfall.,Rajahmundry,2026-09-30T02:03:45.536974,NGO,392,GOOD,general,Heavy Rainfall,general
+REP-0077,Incessant rain at Vijayawada. Low-lying areas at risk.,Vijayawada,2026-10-04T11:53:45.537011,NGO,171,GOOD,general,Heavy Rainfall,general
+REP-0078,Hillside collapse reported near Guntur. 213 people missing.,Guntur,2026-09-24T03:04:45.537053,Social Media,32,GOOD,general,Landslide,general
+REP-0079,NH-443 blocked ,Vizag Port Area,2026-09-23T15:45:45.537093,Government Alert,463,NEEDS_IMPROVEMENT,short_description,Road Blockage,short_description
+REP-0080,NH-254 blocked near Vijayawada due to debris.,Vijayawada,2026-09-25T01:06:45.537135,Government Alert,275,GOOD,general,Road Blockage,general
+REP-0081,Waterlogging reported in Guntur. Drainage system overwhelmed.,Guntur,2026-10-03T20:33:45.537172,Government Alert,370,GOOD,general,Urban Flooding,general
+REP-0082,"NH-47 blocked near Red Hills, Chennai due to debris.","Red Hills, Chennai",2026-10-04T01:56:45.537208,News Media,288,GOOD,general,Road Blockage,general
+REP-0083,"Storm surge hitting coastal area near Tambaram, Chennai. 237 fishermen alerted.","Tambaram, Chennai",2026-09-14T03:50:45.537245,Government Alert,167,GOOD,general,Storm Surge,general
+REP-0084,Storm surge hitting coastal area near Nellore. 388 fishermen alerted.,Nellore,2026-09-08T04:53:45.537327,Citizen,240,GOOD,general,Storm Surge,general
+REP-0085,Severe flooding,"Velachery, Chennai",2026-10-01T11:37:45.537370,Citizen,486,NEEDS_IMPROVEMENT,short_description,Flood,short_description
+REP-0086,"Emergency evacuation ordered for Koyambedu, Chennai.","Koyambedu, Chennai",2026-09-18T20:20:45.537405,Social Media,238,GOOD,general,Evacuation,general
+REP-0087,"Mudslide at Koyambedu, Chennai following heavy rainfall. Roads cut off.","Koyambedu, Chennai",2026-09-19T18:09:45.537442,NGO,55,REJECTED,general,Landslide,general
+REP-0088,NH-57 blocked near Guntur due to debris.,Guntur,2026-09-28T18:29:45.537479,Social Media,38,GOOD,general,Road Blockage,general
+REP-0089,"Emergency evacuation ordered for Koyambedu, Chennai.","Koyambedu, Chennai",2026-09-21T19:46:45.537515,Citizen,177,GOOD,general,Evacuation,general
+REP-0090,"Major road at Red Hills, Chennai closed. Traffic diverted.","Red Hills, Chennai",2026-09-10T01:22:45.537550,Government Alert,54,GOOD,general,Road Blockage,general
+REP-0091,Major road at A,"Anna Nagar, Chennai",2026-09-23T01:40:45.537589,Social Media,375,NEEDS_IMPROVEMENT,short_description,Road Blockage,short_description
+REP-0092,Storm surge hitting coastal area near Madurai. 430 fishermen alerted.,Madurai,2026-09-30T01:52:45.537664,NGO,436,REJECTED,general,Storm Surge,general
+REP-0093,Emergency evacuation ordered for Tirupati.,Tirupati,2026-09-11T05:56:45.537700,News Media,342,GOOD,general,Evacuation,general
+REP-0094,Incessant rain at Kodaikanal. Low-lying areas at risk.,Kodaikanal,2026-09-18T17:11:45.537738,NGO,408,GOOD,general,Heavy Rainfall,general
+REP-0095,Power outage in Rajahmundry. 48 areas affected.,Rajahmundry,2026-09-25T00:32:45.537773,Citizen,264,GOOD,general,Power Disruption,general
+REP-0096,Bridge damaged at Kakinada. Emergency vehicles cannot pass.,Kakinada,2026-09-25T17:52:45.537809,Government Alert,229,GOOD,general,Infrastructure Damage,general
+REP-0097,Emergency evacuation ordered for Vijayawada.,Vijayawada,2026-09-21T05:45:45.537844,NGO,242,REJECTED,general,Evacuation,general
+REP-0098,Storm surge hitting coastal area near Tirupati. 66 fishermen alerted.,,2026-09-14T22:19:45.537880,NGO,128,NEEDS_IMPROVEMENT,missing_location,Storm Surge,missing_location
+REP-0099,Incessant rain ,"Adyar, Chennai",2026-09-21T20:49:45.537919,Social Media,378,NEEDS_IMPROVEMENT,short_description,Heavy Rainfall,short_description
+REP-0100,"Incessant rain at Koyambedu, Chennai. Low-lying areas at risk.","Koyambedu, Chennai",2026-09-15T22:59:45.537955,NGO,116,GOOD,general,Heavy Rainfall,general
+REP-0101,Water level rising rapidly near Rajahmundry. 362 households affected.,Rajahmundry,2026-09-18T01:01:45.537992,Citizen,283,REJECTED,general,Flood,general
+REP-0102,"Emergency evacuation ordered for Red Hills, Chennai.","Red Hills, Chennai",2026-09-08T14:51:45.538028,NGO,240,GOOD,general,Evacuation,general
+REP-0103,Severe cyclonic storm hitting Kodaikanal. 42 people moved to shelters.,Kodaikanal,2026-09-17T14:58:45.538065,Citizen,205,GOOD,general,Cyclone,general
+REP-0104,"Evacuation underway at Anna Nagar, Chennai. 65 residents moved to relief camps.","Anna Nagar, Chennai",2026-09-24T20:29:45.538101,NGO,43,GOOD,general,Evacuation,general
+REP-0105,Incessant rain at Tiruchirappalli. Low-lying areas at risk.,Tiruchirappalli,2026-09-10T21:40:45.538143,News Media,194,GOOD,general,Heavy Rainfall,general
+REP-0106,Evacuation unde,Vijayawada,2026-09-29T19:02:45.538180,News Media,30,NEEDS_IMPROVEMENT,short_description,Evacuation,short_description
+REP-0107,"Heavy rainfall continuing at Adyar, Chennai for the past 12 hours.","Adyar, Chennai",2026-09-23T17:29:45.538215,Social Media,282,GOOD,general,Heavy Rainfall,general
+REP-0108,Coastal flooding due to storm surge near Kodaikanal.,Kodaikanal,2026-09-11T02:03:45.538249,Citizen,118,GOOD,general,Storm Surge,general
+REP-0109,Storm surge hitting coastal area near Kakinada. 222 fishermen alerted.,Kakinada,2026-09-30T19:58:45.538286,News Media,338,GOOD,general,Storm Surge,general
+REP-0110,Landslide blocks main highway near Rajahmundry. Traffic disrupted.,Rajahmundry,2026-09-14T21:09:45.538323,Citizen,30,GOOD,general,Landslide,general
+REP-0111,Road collapse reported near Vijayawada.,Vijayawada,2026-09-08T07:35:45.538358,Citizen,239,GOOD,general,Infrastructure Damage,general
+REP-0112,Road collapse r,Coimbatore,2026-09-19T08:06:45.538393,Government Alert,41,NEEDS_IMPROVEMENT,short_description,Infrastructure Damage,short_description
+REP-0113,"Heavy rainfall continuing at Velachery, Chennai for the past 12 hours.","Velachery, Chennai",2026-09-29T22:05:45.538441,News Media,300,GOOD,general,Heavy Rainfall,general
+REP-0114,"Power lines down at Adyar, Chennai. 474 households without electricity.","Adyar, Chennai",2026-09-20T02:27:45.538477,News Media,333,GOOD,general,Infrastructure Damage,general
+REP-0115,Severe cyclonic storm hitting Kodaikanal. 175 people moved to shelters.,Kodaikanal,2026-10-05T10:46:45.538513,Government Alert,178,GOOD,general,Cyclone,general
+REP-0116,Power lines down at Nellore. 421 households without electricity.,,2026-10-06T05:51:45.538549,NGO,339,NEEDS_IMPROVEMENT,missing_location,Infrastructure Damage,missing_location
+REP-0117,Cyclone damage reported at Warangal. Rooftops blown off.,Warangal,2026-09-16T22:38:45.538585,Government Alert,442,REJECTED,general,Cyclone,general
+REP-0118,Water level ris,Nellore,2026-09-14T14:54:45.538623,Social Media,265,NEEDS_IMPROVEMENT,short_description,Flood,short_description
+REP-0119,Electricity supply disrupted near Rajahmundry due to storm.,,2026-10-07T19:29:45.538658,Social Media,474,NEEDS_IMPROVEMENT,missing_location,Power Disruption,missing_location
+REP-0120,Landslide blocks main highway near Kakinada. Traffic disrupted.,Kakinada,2026-10-01T12:38:45.538693,NGO,282,GOOD,general,Landslide,general
+REP-0121,"Mudslide at Koyambedu, Chennai following heavy rainfall. Roads cut off.","Koyambedu, Chennai",2026-09-30T02:14:45.538732,Government Alert,477,GOOD,general,Landslide,general
+REP-0122,Road collapse reported near Kodaikanal.,Kodaikanal,2026-09-08T20:35:45.538769,Social Media,233,GOOD,general,Infrastructure Damage,general
+REP-0123,"Severe cyclonic storm hitting Anna Nagar, Chennai. 179 people moved to shelters.","Anna Nagar, Chennai",2026-09-22T07:15:45.538806,NGO,395,REJECTED,general,Cyclone,general
+REP-0124,"Coastal flooding due to storm surge near Red Hills, Chennai.","Red Hills, Chennai",2026-09-21T00:45:45.538842,NGO,428,GOOD,general,Storm Surge,general
+REP-0125,Electricity supply disrupted near Warangal due to storm.,Warangal,2026-10-01T17:52:45.538877,News Media,193,GOOD,general,Power Disruption,general
+REP-0126,Major road at Madurai closed. Traffic diverted.,Madurai,2026-09-22T17:09:45.538911,Social Media,438,GOOD,general,Road Blockage,general
+REP-0127,NH-69 blocked near Guntur due to debris.,Guntur,2026-09-20T05:12:45.538948,Social Media,253,GOOD,general,Road Blockage,general
+REP-0128,"Power lines down at Koyambedu, Chennai. 12 households without electricity.",,2026-09-18T12:03:45.538984,Citizen,269,NEEDS_IMPROVEMENT,missing_location,Infrastructure Damage,missing_location
+REP-0129,Coastal flooding due to storm surge near Kodaikanal.,Kodaikanal,2026-09-27T18:13:45.539020,NGO,319,GOOD,general,Storm Surge,general
+REP-0130,Major road at Coimbatore closed. Traffic diverted.,Coimbatore,2026-09-19T13:52:45.539057,NGO,320,GOOD,general,Road Blockage,general
+REP-0131,Heavy rainfall continuing at Vijayawada for the past 12 hours.,Vijayawada,2026-09-11T12:39:45.539133,Citizen,222,GOOD,general,Heavy Rainfall,general
+REP-0132,"Coastal flooding due to storm surge near Adyar, Chennai.","Adyar, Chennai",2026-09-27T04:40:45.539168,Citizen,23,GOOD,general,Storm Surge,general
+REP-0133,"Red alert issued for Anna Nagar, Chennai due to heavy rainfall.",,2026-10-05T20:12:45.539229,News Media,210,NEEDS_IMPROVEMENT,missing_location,Heavy Rainfall,missing_location
+REP-0134,Evacuation underway at Guntur. 123 residents moved to relief camps.,Guntur,2026-09-30T01:51:45.539265,Social Media,254,GOOD,general,Evacuation,general
+REP-0135,"Road collapse reported near Red Hills, Chennai.","Red Hills, Chennai",2026-09-08T04:30:45.539301,NGO,346,GOOD,general,Infrastructure Damage,general
+REP-0136,Major road at Vijayawada closed. Traffic diverted.,Vijayawada,2026-09-11T01:01:45.539361,NGO,233,REJECTED,general,Road Blockage,general
+REP-0137,Major road at Kakinada closed. Traffic diverted.,Kakinada,2026-09-11T18:42:45.539400,News Media,183,GOOD,general,Road Blockage,general
+REP-0138,Floodwaters have entered residential areas near Rajahmundry. Approximately 471 people are stranded.,Rajahmundry,2026-09-23T06:18:45.539440,News Media,442,GOOD,general,Flood,general
+REP-0139,Evacuation underway at Kakinada. 322 residents moved to relief camps.,Kakinada,2026-09-13T16:18:45.539477,NGO,112,GOOD,general,Evacuation,general
+REP-0140,"Severe cyclonic storm hitting Anna Nagar, Chennai. 22 people moved to shelters.","Anna Nagar, Chennai",2026-09-15T12:02:45.539514,Citizen,158,GOOD,general,Cyclone,general
+REP-0141,Waterlogging re,Vijayawada,2026-09-26T23:35:45.539550,Government Alert,89,NEEDS_IMPROVEMENT,short_description,Urban Flooding,short_description
+REP-0142,Hillside collap,Rajahmundry,2026-09-28T12:38:45.539591,NGO,467,NEEDS_IMPROVEMENT,short_description,Landslide,short_description
+REP-0143,"Mudslide at Velachery, Chennai following heavy rainfall. Roads cut off.","Velachery, Chennai",2026-09-25T22:44:45.539626,Social Media,440,GOOD,general,Landslide,general
+REP-0144,"NH-237 blocked near Velachery, Chennai due to debris.","Velachery, Chennai",2026-09-14T18:51:45.539663,Citizen,135,GOOD,general,Road Blockage,general
+REP-0145,NH-246 blocked near Madurai due to debris.,Madurai,2026-09-09T22:47:45.539699,NGO,55,GOOD,general,Road Blockage,general
+REP-0146,Incessant rain ,Tiruchirappalli,2026-10-05T12:05:45.539735,Citizen,325,NEEDS_IMPROVEMENT,short_description,Heavy Rainfall,short_description
+REP-0147,"Storm surge hitting coastal area near Tambaram, Chennai. 125 fishermen alerted.",,2026-09-24T04:25:45.539770,Government Alert,59,NEEDS_IMPROVEMENT,missing_location,Storm Surge,missing_location
+REP-0148,NH-458 blocked near Coimbatore due to debris.,Coimbatore,2026-10-05T00:28:45.539806,News Media,380,GOOD,general,Road Blockage,general
+REP-0149,Coastal flooding due to storm surge near Nellore.,Nellore,2026-09-08T08:13:45.539841,Citizen,353,GOOD,general,Storm Surge,general
+REP-0150,Cyclone damage reported at Nizamabad. Rooftops blown off.,Nizamabad,2026-09-30T10:00:45.539878,NGO,278,GOOD,general,Cyclone,general
+REP-0151,Cyclone damage reported at Tirupati. Rooftops blown off.,Tirupati,2026-10-07T05:52:45.539914,Social Media,328,REJECTED,general,Cyclone,general
+REP-0152,"Evacuation underway at Anna Nagar, Chennai. 305 residents moved to relief camps.","Anna Nagar, Chennai",2026-09-11T08:46:45.539950,Social Media,35,GOOD,general,Evacuation,general
+REP-0153,"Evacuation underway at Anna Nagar, Chennai. 71 residents moved to relief camps.","Anna Nagar, Chennai",2026-09-13T11:00:45.540002,Citizen,141,GOOD,general,Evacuation,general
+REP-0154,"Landslide blocks main highway near Red Hills, Chennai. Traffic disrupted.","Red Hills, Chennai",2026-10-03T08:04:45.540060,Citizen,183,GOOD,general,Landslide,general
+REP-0155,"NH-248 blocked near Anna Nagar, Chennai due to debris.","Anna Nagar, Chennai",2026-09-26T23:30:45.540094,News Media,58,GOOD,general,Road Blockage,general
+REP-0156,Road collapse r,"Koyambedu, Chennai",2026-09-16T23:48:45.540129,News Media,113,NEEDS_IMPROVEMENT,short_description,Infrastructure Damage,short_description
+REP-0157,Flash flood warning near Tirupati. Residents evacuating.,Tirupati,2026-09-22T17:09:45.540164,Citizen,245,GOOD,general,Flood,general
+REP-0158,Cyclone damage reported at Tirupati. Rooftops blown off.,Tirupati,2026-09-29T20:27:45.540198,Citizen,164,GOOD,general,Cyclone,general
+REP-0159,Electricity supply disrupted near Madurai due to storm.,Madurai,2026-09-25T12:17:45.540232,NGO,195,GOOD,general,Power Disruption,general
+REP-0160,"Electricity supply disrupted near Koyambedu, Chennai due to storm.","Koyambedu, Chennai",2026-09-28T01:42:45.540268,Social Media,220,GOOD,general,Power Disruption,general
+REP-0161,Severe cyclonic storm hitting Nellore. 345 people moved to shelters.,Nellore,2026-09-08T11:24:45.540305,NGO,218,GOOD,general,Cyclone,general
+REP-0162,"Cyclone approaching Kodaikanal. Winds at high speed, trees uprooted.",Kodaikanal,2026-09-14T16:44:45.540339,Citizen,425,GOOD,general,Cyclone,general
+REP-0163,"Electricity supply disrupted near Anna Nagar, Chennai due to storm.","Anna Nagar, Chennai",2026-09-26T18:19:45.540374,Citizen,300,GOOD,general,Power Disruption,general
+REP-0164,Water level rising rapidly near Nellore. 185 households affected.,Nellore,2026-09-22T09:58:45.540424,NGO,307,GOOD,general,Flood,general
+REP-0165,Red alert issued for Kodaikanal due to heavy rainfall.,Kodaikanal,2026-09-29T21:53:45.540459,Citizen,179,GOOD,general,Heavy Rainfall,general
+REP-0166,Power outage in Nellore. 316 areas affected.,Nellore,2026-09-11T17:50:45.540512,News Media,314,REJECTED,general,Power Disruption,general
+REP-0167,"Hillside collapse reported near Red Hills, Chennai. 476 people missing.","Red Hills, Chennai",2026-10-08T10:12:45.540551,NGO,359,GOOD,general,Landslide,general
+REP-0168,"Evacuation underway at Anna Nagar, Chennai. 384 residents moved to relief camps.","Anna Nagar, Chennai",2026-10-08T13:20:45.540589,Government Alert,35,GOOD,general,Evacuation,general
+REP-0169,Incessant rain at Ooty. Low-lying areas at risk.,Ooty,2026-09-28T16:47:45.540623,Government Alert,214,GOOD,general,Heavy Rainfall,general
+REP-0170,Evacuation underway at Madurai. 84 residents moved to relief camps.,Madurai,2026-09-19T14:24:45.540661,Citizen,452,GOOD,general,Evacuation,general
+REP-0171,"Coastal flooding due to storm surge near Velachery, Chennai.","Velachery, Chennai",2026-09-25T07:54:45.540715,Government Alert,338,GOOD,general,Storm Surge,general
+REP-0172,"Cyclone approaching Ooty. Winds at high speed, trees uprooted.",Ooty,2026-09-20T00:34:45.540757,NGO,220,GOOD,general,Cyclone,general
+REP-0173,Floodwaters have entered residential areas near Vijayawada. Approximately 8 people are stranded.,Vijayawada,2026-09-08T09:18:45.540801,Social Media,202,GOOD,general,Flood,general
+REP-0174,"Storm surge hitting coastal area near Anna Nagar, Chennai. 8 fishermen alerted.","Anna Nagar, Chennai",2026-09-25T10:59:45.540837,NGO,167,GOOD,general,Storm Surge,general
+REP-0175,Electricity supply disrupted near Guntur due to storm.,Guntur,2026-09-15T14:40:45.540873,Social Media,256,GOOD,general,Power Disruption,general
+REP-0176,"Power lines down at Red Hills, Chennai. 299 households without electricity.","Red Hills, Chennai",2026-09-25T17:27:45.540907,Citizen,441,GOOD,general,Infrastructure Damage,general
+REP-0177,Storm surge hitting coastal area near Nellore. 499 fishermen alerted.,Nellore,2026-09-12T20:38:45.540942,Citizen,207,GOOD,general,Storm Surge,general
+REP-0178,"Cyclone approaching Nizamabad. Winds at high speed, trees uprooted.",Nizamabad,2026-09-26T00:02:45.540977,Government Alert,432,GOOD,general,Cyclone,general
+REP-0179,Coastal flooding due to storm surge near Guntur.,Guntur,2026-09-21T20:00:45.541022,NGO,113,GOOD,general,Storm Surge,general
+REP-0180,Electricity sup,Ooty,2026-09-12T11:52:45.541067,Social Media,463,NEEDS_IMPROVEMENT,short_description,Power Disruption,short_description
+REP-0181,"Landslide blocks main highway near Koyambedu, Chennai. Traffic disrupted.","Koyambedu, Chennai",2026-09-13T20:03:45.541129,NGO,101,GOOD,general,Landslide,general
+REP-0182,"Road collapse reported near Adyar, Chennai.","Adyar, Chennai",2026-09-16T21:26:45.541167,Government Alert,386,GOOD,general,Infrastructure Damage,general
+REP-0183,Streets flooded in Tiruchirappalli. Commuters stranded.,Tiruchirappalli,2026-09-18T06:17:45.541203,NGO,77,GOOD,general,Urban Flooding,general
+REP-0184,Evacuation underway at Rajahmundry. 163 residents moved to relief camps.,Rajahmundry,2026-10-07T14:44:45.541238,Citizen,180,GOOD,general,Evacuation,general
+REP-0185,Cyclone damage reported at Vijayawada. Rooftops blown off.,Vijayawada,2026-09-19T22:17:45.541286,Citizen,314,GOOD,general,Cyclone,general
+REP-0186,"Bridge damaged at Tambaram, Chennai. Emergency vehicles cannot pass.","Tambaram, Chennai",2026-09-22T12:04:45.541363,News Media,333,GOOD,general,Infrastructure Damage,general
+REP-0187,"Cyclone approaching Tirupati. Winds at high speed, trees uprooted.",Tirupati,2026-10-07T08:22:45.541400,NGO,365,GOOD,general,Cyclone,general
+REP-0188,Road collapse reported near Tirupati.,Tirupati,2026-09-09T06:43:45.541434,News Media,267,GOOD,general,Infrastructure Damage,general
+REP-0189,336 homes waterlogged in Nellore due to blocked drains.,Nellore,2026-09-28T12:32:45.541471,News Media,26,GOOD,general,Urban Flooding,general
+REP-0190,Storm surge hitting coastal area near Guntur. 175 fishermen alerted.,Guntur,2026-09-17T11:09:45.542066,NGO,370,GOOD,general,Storm Surge,general
+REP-0191,Storm surge hitting coastal area near Nizamabad. 163 fishermen alerted.,Nizamabad,2026-09-18T05:15:45.542136,Government Alert,66,GOOD,general,Storm Surge,general
+REP-0192,"Electricity supply disrupted near Anna Nagar, Chennai due to storm.","Anna Nagar, Chennai",2026-09-27T06:56:45.542187,Citizen,330,GOOD,general,Power Disruption,general
+REP-0193,Waterlogging reported in Vizag Port Area. Drainage system overwhelmed.,Vizag Port Area,2026-09-29T12:35:45.542231,Government Alert,98,GOOD,general,Urban Flooding,general
+REP-0194,Electricity supply disrupted near Coimbatore due to storm.,,2026-09-26T11:57:45.542274,Citizen,338,NEEDS_IMPROVEMENT,missing_location,Power Disruption,missing_location
+REP-0195,"Emergency evacuation ordered for Adyar, Chennai.","Adyar, Chennai",2026-09-16T16:52:45.542314,Social Media,369,GOOD,general,Evacuation,general
+REP-0196,Emergency evacuation ordered for Tirupati.,Tirupati,2026-09-29T00:10:45.542352,NGO,385,GOOD,general,Evacuation,general
+REP-0197,Streets flooded in Vizag Port Area. Commuters stranded.,Vizag Port Area,2026-09-25T23:34:45.542472,News Media,225,GOOD,general,Urban Flooding,general
+REP-0198,Mudslide at Nellore following heavy rainfall. Roads cut off.,,2026-09-23T04:32:45.542546,Social Media,410,NEEDS_IMPROVEMENT,missing_location,Landslide,missing_location
+REP-0199,"Power outage in Koyambedu, Chennai. 395 areas affected.","Koyambedu, Chennai",2026-09-23T23:58:45.542717,Citizen,145,GOOD,general,Power Disruption,general
+REP-0200,Severe cyclonic storm hitting Nellore. 457 people moved to shelters.,Nellore,2026-10-08T03:04:45.542851,Social Media,418,GOOD,general,Cyclone,general
+REP-0201,Electricity supply disrupted near Guntur due to storm.,Guntur,2026-10-08T05:08:45.542899,NGO,120,GOOD,general,Power Disruption,general
+REP-0202,"Waterlogging reported in Koyambedu, Chennai. Drainage system overwhelmed.","Koyambedu, Chennai",2026-09-22T17:14:45.542989,Social Media,70,REJECTED,general,Urban Flooding,general
+REP-0203,"Bridge damaged at Anna Nagar, Chennai. Emergency vehicles cannot pass.","Anna Nagar, Chennai",2026-09-30T09:14:45.543063,Government Alert,315,GOOD,general,Infrastructure Damage,general
+REP-0204,"Electricity supply disrupted near Anna Nagar, Chennai due to storm.",,2026-10-05T14:52:45.543106,News Media,270,NEEDS_IMPROVEMENT,missing_location,Power Disruption,missing_location
+REP-0205,Evacuation underway at Nellore. 433 residents moved to relief camps.,Nellore,2026-09-18T23:06:45.543149,Government Alert,32,REJECTED,general,Evacuation,general
+REP-0206,Evacuation underway at Ooty. 154 residents moved to relief camps.,Ooty,2026-09-19T04:52:45.543380,Social Media,367,GOOD,general,Evacuation,general
+REP-0207,NH-273 blocked near Madurai due to debris.,Madurai,2026-10-05T23:33:45.543457,Social Media,340,REJECTED,general,Road Blockage,general
+REP-0208,Electricity supply disrupted near Ooty due to storm.,Ooty,2026-09-18T03:44:45.543502,News Media,10,GOOD,general,Power Disruption,general
+REP-0209,Floodwaters have entered residential areas near Rajahmundry. Approximately 181 people are stranded.,Rajahmundry,2026-09-16T20:01:45.543547,NGO,403,GOOD,general,Flood,general
+REP-0210,Streets flooded in Madurai. Commuters stranded.,Madurai,2026-09-18T10:14:45.543588,Social Media,22,GOOD,general,Urban Flooding,general
+REP-0211,Bridge damaged ,Tirupati,2026-10-07T06:55:45.543637,Social Media,415,NEEDS_IMPROVEMENT,short_description,Infrastructure Damage,short_description
+REP-0212,"Incessant rain at Tambaram, Chennai. Low-lying areas at risk.","Tambaram, Chennai",2026-09-11T22:37:45.543721,Citizen,161,GOOD,general,Heavy Rainfall,general
+REP-0213,Water level ris,Rajahmundry,2026-09-28T08:00:45.543767,Social Media,146,NEEDS_IMPROVEMENT,short_description,Flood,short_description
+REP-0214,Major road at Nizamabad closed. Traffic diverted.,Nizamabad,2026-09-28T10:36:45.543807,Government Alert,380,REJECTED,general,Road Blockage,general
+REP-0215,Waterlogging reported in Kodaikanal. Drainage system overwhelmed.,Kodaikanal,2026-09-24T20:15:45.543844,News Media,136,GOOD,general,Urban Flooding,general
+REP-0216,"Power outage in Adyar, Chennai. 45 areas affected.","Adyar, Chennai",2026-09-29T06:39:45.543883,NGO,164,GOOD,general,Power Disruption,general
+REP-0217,Major road at Tiruchirappalli closed. Traffic diverted.,Tiruchirappalli,2026-09-15T04:28:45.543921,Social Media,353,GOOD,general,Road Blockage,general
+REP-0218,Coastal flooding due to storm surge near Nellore.,Nellore,2026-09-14T18:57:45.543962,Citizen,38,GOOD,general,Storm Surge,general
+REP-0219,"Hillside collapse reported near Red Hills, Chennai. 22 people missing.","Red Hills, Chennai",2026-09-30T19:44:45.544008,News Media,347,GOOD,general,Landslide,general
+REP-0220,NH-352 blocked near Nizamabad due to debris.,Nizamabad,2026-09-27T04:39:45.544046,News Media,16,GOOD,general,Road Blockage,general
+REP-0221,"Emergency evacuation ordered for Velachery, Chennai.","Velachery, Chennai",2026-09-30T09:00:45.544083,Social Media,271,GOOD,general,Evacuation,general
+REP-0222,"Hillside collapse reported near Red Hills, Chennai. 472 people missing.","Red Hills, Chennai",2026-09-30T07:22:45.544119,Government Alert,265,GOOD,general,Landslide,general
+REP-0223,Red alert issued for Tirupati due to heavy rainfall.,Tirupati,2026-10-02T12:59:45.544155,News Media,146,REJECTED,general,Heavy Rainfall,general
+REP-0224,"Road collapse reported near Velachery, Chennai.","Velachery, Chennai",2026-09-12T18:13:45.544190,Social Media,460,REJECTED,general,Infrastructure Damage,general
+REP-0225,153 homes water,Warangal,2026-09-15T17:08:45.544228,Citizen,281,NEEDS_IMPROVEMENT,short_description,Urban Flooding,short_description
+REP-0226,"Waterlogging reported in Adyar, Chennai. Drainage system overwhelmed.",,2026-09-23T15:44:45.544265,News Media,114,NEEDS_IMPROVEMENT,missing_location,Urban Flooding,missing_location
+REP-0227,Evacuation underway at Coimbatore. 318 residents moved to relief camps.,,2026-09-25T17:21:45.544305,NGO,239,NEEDS_IMPROVEMENT,missing_location,Evacuation,missing_location
+REP-0228,Electricity supply disrupted near Kodaikanal due to storm.,Kodaikanal,2026-10-04T05:26:45.544340,Government Alert,393,GOOD,general,Power Disruption,general
+REP-0229,"Road collapse reported near Velachery, Chennai.","Velachery, Chennai",2026-09-11T22:27:45.544375,Government Alert,348,GOOD,general,Infrastructure Damage,general
+REP-0230,Mudslide at Mad,Madurai,2026-09-22T11:48:45.544412,Social Media,221,NEEDS_IMPROVEMENT,short_description,Landslide,short_description
+REP-0231,"Mudslide at Adyar, Chennai following heavy rainfall. Roads cut off.","Adyar, Chennai",2026-09-07T23:10:45.544447,NGO,478,GOOD,general,Landslide,general
+REP-0232,Cyclone damage reported at Vijayawada. Rooftops blown off.,Vijayawada,2026-10-03T19:48:45.544484,NGO,100,GOOD,general,Cyclone,general
+REP-0233,Power outage in Tiruchirappalli. 308 areas affected.,Tiruchirappalli,2026-10-04T10:25:45.544519,Citizen,257,REJECTED,general,Power Disruption,general
+REP-0234,Evacuation underway at Tiruchirappalli. 427 residents moved to relief camps.,,2026-09-07T19:18:45.544561,NGO,431,NEEDS_IMPROVEMENT,missing_location,Evacuation,missing_location
+REP-0235,Coastal flooding due to storm surge near Madurai.,Madurai,2026-09-22T19:33:45.544597,Social Media,392,GOOD,general,Storm Surge,general
+REP-0236,Coastal flooding due to storm surge near Vijayawada.,Vijayawada,2026-09-16T14:57:45.544634,Government Alert,125,GOOD,general,Storm Surge,general
+REP-0237,NH-179 blocked near Tirupati due to debris.,Tirupati,2026-09-27T17:47:45.544670,Government Alert,237,GOOD,general,Road Blockage,general
+REP-0238,Major road at Nizamabad closed. Traffic diverted.,Nizamabad,2026-09-28T08:38:45.544705,Social Media,389,GOOD,general,Road Blockage,general
+REP-0239,"Storm surge hitting coastal area near Koyambedu, Chennai. 54 fishermen alerted.","Koyambedu, Chennai",2026-09-08T03:12:45.544739,Government Alert,126,GOOD,general,Storm Surge,general
+REP-0240,NH-421 blocked near Tiruchirappalli due to debris.,Tiruchirappalli,2026-09-19T16:47:45.544775,Social Media,492,GOOD,general,Road Blockage,general
+REP-0241,Hillside collapse reported near Vizag Port Area. 260 people missing.,,2026-10-06T03:35:45.544811,Government Alert,263,NEEDS_IMPROVEMENT,missing_location,Landslide,missing_location
+REP-0242,Incessant rain at Tirupati. Low-lying areas at risk.,Tirupati,2026-09-22T20:11:45.544846,Social Media,298,GOOD,general,Heavy Rainfall,general
+REP-0243,Storm surge hitting coastal area near Kodaikanal. 225 fishermen alerted.,Kodaikanal,2026-09-29T16:44:45.544881,News Media,4,GOOD,general,Storm Surge,general
+REP-0244,Waterlogging reported in Guntur. Drainage system overwhelmed.,Guntur,2026-09-26T22:49:45.544916,Citizen,205,GOOD,general,Urban Flooding,general
+REP-0245,"Major road at Velachery, Chennai closed. Traffic diverted.","Velachery, Chennai",2026-09-16T21:00:45.544951,News Media,230,REJECTED,general,Road Blockage,general
+REP-0246,"Severe cyclonic storm hitting Anna Nagar, Chennai. 290 people moved to shelters.","Anna Nagar, Chennai",2026-09-14T11:55:45.544987,Government Alert,191,REJECTED,general,Cyclone,general
+REP-0247,Power outage in Tiruchirappalli. 28 areas affected.,Tiruchirappalli,2026-09-16T05:16:45.545022,Government Alert,256,GOOD,general,Power Disruption,general
+REP-0248,Power outage in Kodaikanal. 172 areas affected.,Kodaikanal,2026-09-28T10:42:45.545060,Government Alert,76,REJECTED,general,Power Disruption,general
+REP-0249,Coastal flooding due to storm surge near Tiruchirappalli.,Tiruchirappalli,2026-09-23T15:44:45.545098,News Media,172,GOOD,general,Storm Surge,general
+REP-0250,Severe cyclonic,Warangal,2026-09-18T15:29:45.545135,Government Alert,298,NEEDS_IMPROVEMENT,short_description,Cyclone,short_description
